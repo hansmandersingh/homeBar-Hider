@@ -1,0 +1,10 @@
+Package: com.yourcompany.homebarwidth
+Name: homebarwidth
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Hansmander Singh
+Author: Hansmander Singh
+Section: Tweaks
+Version: 0.0.1-10+debug
+Installed-Size: 104
